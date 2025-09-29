@@ -10,7 +10,7 @@ from src.evaluate import evaluate
 
 st.title(" Inventory Optimization with ML")
 
-# ℹ️ Explanations
+#  Explanations
 st.markdown("""
 **Reorder Point (R):** When stock falls to this level, we reorder.  
 **Order Quantity (Q):** How much to order each time.  
